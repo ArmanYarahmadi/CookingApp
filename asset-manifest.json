@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CookingApp/static/css/main.8845b870.chunk.css",
+    "main.js": "/CookingApp/static/js/main.5a4a9be7.chunk.js",
+    "main.js.map": "/CookingApp/static/js/main.5a4a9be7.chunk.js.map",
+    "runtime-main.js": "/CookingApp/static/js/runtime-main.3695d109.js",
+    "runtime-main.js.map": "/CookingApp/static/js/runtime-main.3695d109.js.map",
+    "static/js/2.43358060.chunk.js": "/CookingApp/static/js/2.43358060.chunk.js",
+    "static/js/2.43358060.chunk.js.map": "/CookingApp/static/js/2.43358060.chunk.js.map",
+    "index.html": "/CookingApp/index.html",
+    "precache-manifest.97cd24b2c0edde7bb6f2dd219a9a9939.js": "/CookingApp/precache-manifest.97cd24b2c0edde7bb6f2dd219a9a9939.js",
+    "service-worker.js": "/CookingApp/service-worker.js",
+    "static/css/main.8845b870.chunk.css.map": "/CookingApp/static/css/main.8845b870.chunk.css.map",
+    "static/js/2.43358060.chunk.js.LICENSE.txt": "/CookingApp/static/js/2.43358060.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3695d109.js",
+    "static/js/2.43358060.chunk.js",
+    "static/css/main.8845b870.chunk.css",
+    "static/js/main.5a4a9be7.chunk.js"
+  ]
+}
